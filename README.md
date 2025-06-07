@@ -1,2 +1,2 @@
-# Mutimodalretreival
+# MultimodalRetrieval
 Team_1_Project
